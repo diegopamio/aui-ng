@@ -6,7 +6,7 @@
     "K15T"
   ],
   "description": "Angular.JS AUI components",
-  "main": "src/aui-ng.js",
+  "main": ["dist/aui-ng.min.js","dist/aui-ng.css"],
   "moduleType": [
     "globals"
   ],
